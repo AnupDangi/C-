@@ -1,3 +1,14 @@
+#include<stdio.h>
+#include<stdlib.h>
+
+struct bst{
+    int data;
+    struct bst *lchild;
+    struct bst *rchild;
+};
+
+typedef struct bst *Node;
+
 Node create()
 {
     Node temp;
