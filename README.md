@@ -18,6 +18,7 @@ Linear Data Structures
         Binary Search Trees (BST)
     6. Graphs
 
+Here VTU programs for Major Classical Algorithm Ranging from brute force methods ,divide and conquer,decrease and conquer,greedy algorithms,backtracking,and Dynamic Programming all are given below.Feel free too fork this repo and learn from the implementation of Data Structures and Major Classical and Famous Algorithms. 
 
 Additionally, pointers and structures are explained to provide a comprehensive understanding of data structures in C.
 
@@ -28,6 +29,8 @@ Choose the data structure you want to explore from the list above.
 Navigate to the respective folder in the repository. Each folder contains C source code files (.c) along with explanations and comments to help you understand the implementation.
 Compile and run the C files using your preferred IDE or command line.
 Contribution Guidelines
+
+##  After  forking remember that the problem statement for each program  is given in the pdf form dont forget to check it out .
 
 Contributions to this repository are welcome! If you find any issues, want to improve existing code, or add new data structures, feel free to submit a pull request. Please ensure your contributions follow the repository's coding standards and include appropriate documentation.
 
